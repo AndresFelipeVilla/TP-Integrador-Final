@@ -4,7 +4,7 @@
 El objetivo de este proyecto es validar los conocimientos prácticos y técnicos en el desarrollo de APIs utilizando Java y Spring Boot. Este trabajo final forma parte del curso “Desarrollo de APIs en Java con Spring Boot” de TodoCode Academy.
 
 ## Escenario
-Un bazar ha experimentado un aumento significativo en sus ventas, lo que hace inviable gestionar manualmente el registro de ventas y el manejo del stock de productos. Por ello, se solicita el desarrollo de una API que permita realizar estas tareas.
+Un Tienda ha experimentado un aumento significativo en sus ventas, lo que hace inviable gestionar manualmente el registro de ventas y el manejo del stock de productos. Por ello, se solicita el desarrollo de una API que permita realizar estas tareas.
 
 La API servirá como backend para:
 - Una aplicación web que desarrollará un programador amigo.
